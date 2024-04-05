@@ -1,2 +1,3 @@
 # Titanic-Survival-Predection
-Using ML Algo the Model can able to Proceed the Passenger is Alive or Dead
+CODSOFT Intership - Titanic Survival Prediction
+By Using the Titanic dataset to build a model that predicts whether a passenger on the Titanic survived or not. This is a classic beginner project with readily available data.The dataset typically used for this project contains information about individual passengers, such as their age, gender, ticket class, fare, cabin, and whether or not they survived.
